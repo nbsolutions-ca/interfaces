@@ -1,2 +1,4 @@
 
-export type IConstructor<T = any, TArgs extends any[] = any> = new (...args: TArgs) => T;
+import {IAbstractConstructor} from './IAbstractConstructor';
+import {IConcreteConstructor} from './IConcreteConstructor';
+export type IConstructor = IAbstractConstructor | IConcreteConstructor;
