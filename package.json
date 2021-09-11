@@ -6,7 +6,6 @@
   "types": "types/api.d.ts",
   "devDependencies": {
     "@nbsolutions/eslint-plugin": "1.0.0",
-    "@nbsolutions/util": "file:../util/nbsolutions-util-1.0.0.tgz",
     "@types/jest": "27.0.1",
     "@typescript-eslint/eslint-plugin": "4.29.2",
     "@typescript-eslint/parser": "4.29.2",
@@ -15,7 +14,7 @@
     "jest": "27.0.6",
     "ts-jest": "27.0.5",
     "ts-node": "10.2.1",
-    "typedoc": "0.21.5",
+    "typedoc": "0.21.6",
     "typedoc-plugin-markdown": "3.10.4",
     "typescript": "4.3.5"
   },
@@ -42,8 +41,5 @@
   "homepage": "https://github.com/nbsolutions-ca/interfaces#readme",
   "dependencies": {
     "tslib": "2.3.1"
-  },
-  "peerDependencies": {
-    "@nbsolutions/util": "*"
   }
 }

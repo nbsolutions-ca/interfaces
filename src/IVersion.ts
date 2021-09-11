@@ -1,5 +1,5 @@
 import { INBSObject } from './INBSObject';
-import {IComparable} from '@nbsolutions/util';
+import {IComparable} from './IComparable';
 
 export interface IVersion extends INBSObject, IComparable<IVersion> {
     getMajor(): number;
