@@ -1,4 +1,4 @@
-[@nbsolutions/logger - v0.0.0](../README.md) / [Exports](../modules.md) / LogLevel
+[@nbsolutions/interfaces - v0.0.0-alpha.0](../README.md) / [Exports](../modules.md) / LogLevel
 
 # Module: LogLevel
 
