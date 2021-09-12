@@ -1,6 +1,6 @@
 {
   "name": "@nbsolutions/interfaces",
-  "version": "0.0.0",
+  "version": "0.0.0-alpha.0",
   "description": "Meta package that describes the interfaces of the NGB framework",
   "main": "lib/api.js",
   "types": "types/api.d.ts",
@@ -18,7 +18,7 @@
     "jest": "27.1.1",
     "ts-jest": "27.0.5",
     "ts-node": "10.2.1",
-    "typedoc": "0.22.2",
+    "typedoc": "0.21.9",
     "typedoc-plugin-markdown": "3.10.4",
     "typescript": "4.3.5"
   },
