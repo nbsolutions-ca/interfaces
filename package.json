@@ -4,6 +4,10 @@
   "description": "Meta package that describes the interfaces of the NGB framework",
   "main": "lib/api.js",
   "types": "types/api.d.ts",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  },
   "devDependencies": {
     "@nbsolutions/eslint-plugin": "1.0.0",
     "@types/jest": "27.0.1",
