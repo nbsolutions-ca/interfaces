@@ -20,7 +20,7 @@
 
 #### Defined in
 
-[ComparisonResult.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ComparisonResult.ts#L4)
+[ComparisonResult.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ComparisonResult.ts#L4)
 
 ___
 
@@ -30,7 +30,7 @@ ___
 
 #### Defined in
 
-[ComparisonResult.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ComparisonResult.ts#L5)
+[ComparisonResult.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ComparisonResult.ts#L5)
 
 ___
 
@@ -40,4 +40,4 @@ ___
 
 #### Defined in
 
-[ComparisonResult.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ComparisonResult.ts#L3)
+[ComparisonResult.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ComparisonResult.ts#L3)

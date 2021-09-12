@@ -30,7 +30,7 @@
 
 #### Defined in
 
-[IApplication.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IApplication.ts#L8)
+[IApplication.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IApplication.ts#L8)
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 #### Defined in
 
-[IApplication.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IApplication.ts#L6)
+[IApplication.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IApplication.ts#L6)
 
 ___
 
@@ -58,4 +58,4 @@ ___
 
 #### Defined in
 
-[IApplication.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IApplication.ts#L7)
+[IApplication.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IApplication.ts#L7)

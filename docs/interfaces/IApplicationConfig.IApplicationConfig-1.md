@@ -19,7 +19,7 @@
 
 #### Defined in
 
-[IApplicationConfig.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IApplicationConfig.ts#L3)
+[IApplicationConfig.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IApplicationConfig.ts#L3)
 
 ___
 
@@ -29,4 +29,4 @@ ___
 
 #### Defined in
 
-[IApplicationConfig.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IApplicationConfig.ts#L4)
+[IApplicationConfig.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IApplicationConfig.ts#L4)

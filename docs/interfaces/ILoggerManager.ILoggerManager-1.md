@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[ILoggerManager.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILoggerManager.ts#L6)
+[ILoggerManager.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILoggerManager.ts#L6)

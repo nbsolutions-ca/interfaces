@@ -23,7 +23,7 @@
 
 #### Defined in
 
-[LogLevel.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/LogLevel.ts#L4)
+[LogLevel.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/LogLevel.ts#L4)
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/LogLevel.ts#L5)
+[LogLevel.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/LogLevel.ts#L5)
 
 ___
 
@@ -43,7 +43,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/LogLevel.ts#L8)
+[LogLevel.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/LogLevel.ts#L8)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/LogLevel.ts#L6)
+[LogLevel.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/LogLevel.ts#L6)
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/LogLevel.ts#L3)
+[LogLevel.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/LogLevel.ts#L3)
 
 ___
 
@@ -73,4 +73,4 @@ ___
 
 #### Defined in
 
-[LogLevel.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/LogLevel.ts#L7)
+[LogLevel.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/LogLevel.ts#L7)

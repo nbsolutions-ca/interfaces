@@ -48,7 +48,7 @@
 
 #### Defined in
 
-[IComparable.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IComparable.ts#L5)
+[IComparable.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IComparable.ts#L5)
 
 ___
 
@@ -66,7 +66,7 @@ ___
 
 #### Defined in
 
-[INBSObject.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/INBSObject.ts#L3)
+[INBSObject.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/INBSObject.ts#L3)
 
 ___
 
@@ -80,7 +80,7 @@ ___
 
 #### Defined in
 
-[IVersion.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L5)
+[IVersion.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L5)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[IVersion.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L6)
+[IVersion.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L6)
 
 ___
 
@@ -108,7 +108,7 @@ ___
 
 #### Defined in
 
-[IVersion.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L7)
+[IVersion.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L7)
 
 ___
 
@@ -122,7 +122,7 @@ ___
 
 #### Defined in
 
-[IVersion.ts:10](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L10)
+[IVersion.ts:10](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L10)
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 #### Defined in
 
-[IVersion.ts:9](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L9)
+[IVersion.ts:9](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L9)
 
 ___
 
@@ -150,7 +150,7 @@ ___
 
 #### Defined in
 
-[IVersion.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L8)
+[IVersion.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L8)
 
 ___
 
@@ -164,4 +164,4 @@ ___
 
 #### Defined in
 
-[IVersion.ts:11](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IVersion.ts#L11)
+[IVersion.ts:11](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IVersion.ts#L11)

@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[INBSObject.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/INBSObject.ts#L3)
+[INBSObject.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/INBSObject.ts#L3)

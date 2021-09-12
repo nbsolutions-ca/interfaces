@@ -40,4 +40,4 @@
 
 #### Defined in
 
-[IComparable.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IComparable.ts#L5)
+[IComparable.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IComparable.ts#L5)

@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[IAbstractConstructor.ts:2](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IAbstractConstructor.ts#L2)
+[IAbstractConstructor.ts:2](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IAbstractConstructor.ts#L2)

@@ -16,4 +16,4 @@
 
 #### Defined in
 
-[IConstructor.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IConstructor.ts#L4)
+[IConstructor.ts:4](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IConstructor.ts#L4)

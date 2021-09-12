@@ -33,4 +33,4 @@
 
 #### Defined in
 
-[IConcreteConstructor.ts:2](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/IConcreteConstructor.ts#L2)
+[IConcreteConstructor.ts:2](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/IConcreteConstructor.ts#L2)

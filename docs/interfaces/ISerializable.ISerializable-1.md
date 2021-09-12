@@ -28,4 +28,4 @@
 
 #### Defined in
 
-[ISerializable.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ISerializable.ts#L3)
+[ISerializable.ts:3](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ISerializable.ts#L3)

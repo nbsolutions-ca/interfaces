@@ -38,7 +38,7 @@
 
 #### Defined in
 
-[ILogger.ts:11](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L11)
+[ILogger.ts:11](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L11)
 
 ___
 
@@ -59,7 +59,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:9](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L9)
+[ILogger.ts:9](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L9)
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:10](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L10)
+[ILogger.ts:10](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L10)
 
 ___
 
@@ -101,7 +101,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L6)
+[ILogger.ts:6](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L6)
 
 ___
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L7)
+[ILogger.ts:7](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L7)
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:13](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L13)
+[ILogger.ts:13](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L13)
 
 ___
 
@@ -155,7 +155,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L5)
+[ILogger.ts:5](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L5)
 
 ___
 
@@ -175,7 +175,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:14](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L14)
+[ILogger.ts:14](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L14)
 
 ___
 
@@ -196,7 +196,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L8)
+[ILogger.ts:8](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L8)
 
 ___
 
@@ -216,7 +216,7 @@ ___
 
 #### Defined in
 
-[ILogger.ts:12](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L12)
+[ILogger.ts:12](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L12)
 
 ___
 
@@ -236,4 +236,4 @@ ___
 
 #### Defined in
 
-[ILogger.ts:15](https://github.com/nbsolutions-ca/interfaces/blob/5e5cbad/src/ILogger.ts#L15)
+[ILogger.ts:15](https://github.com/nbsolutions-ca/interfaces/blob/f8eb3ad/src/ILogger.ts#L15)
