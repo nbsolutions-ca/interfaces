@@ -28,3 +28,8 @@ export {ISubject} from './ISubject';
 export {IAction} from './IAction';
 export {IStore} from './IStore';
 export {IStoreManager} from './IStoreManager';
+
+// =============================================================================
+// Error
+// =============================================================================
+export {INBSError} from './INBSError';
