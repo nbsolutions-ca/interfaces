@@ -18,6 +18,11 @@ export {IConcreteConstructor} from './IConcreteConstructor';
 export {ILoggerManager} from './ILoggerManager';
 
 // =============================================================================
+// General Object Utilities
+// =============================================================================
+export {IDisposable} from './IDisposable';
+
+// =============================================================================
 // Observers
 // =============================================================================
 export {IObservable} from './IObservable';
