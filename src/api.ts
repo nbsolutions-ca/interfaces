@@ -20,7 +20,9 @@ export {ILoggerManager} from './ILoggerManager';
 // =============================================================================
 // Observers
 // =============================================================================
+export {IObservable} from './IObservable';
 export {ISubject} from './ISubject';
+export {IBroadcast} from './IBroadcast';
 
 // =============================================================================
 // Action / Modal System
