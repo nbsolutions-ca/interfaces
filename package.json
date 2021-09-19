@@ -1,6 +1,6 @@
 {
   "name": "@nbsolutions/interfaces",
-  "version": "0.0.0-alpha.0",
+  "version": "0.0.0",
   "description": "Meta package that describes the interfaces of the NGB framework",
   "main": "lib/api.js",
   "types": "types/api.d.ts",
